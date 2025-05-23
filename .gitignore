@@ -1,6 +1,7 @@
 .history/
 .trunk/
 __pycache__/
+.mypy_cache/
 .vscode/
 test/
 # *test*
